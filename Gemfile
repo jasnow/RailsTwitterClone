@@ -10,7 +10,7 @@ gem "puma"
 # Use SCSS for stylesheets
 gem "sass-rails"
 gem "bootstrap-sass"
-gem "font-awesome-sass", "~> 4.3" # 3/28/2019: LOCKED DOWN
+gem "font-awesome-sass", "4.7.0" # 3/28/2019: LOCKED DOWN
 # Use Uglifier as compressor for JavaScript assets
 gem "uglifier"
 # Use CoffeeScript for .js.coffee assets and views

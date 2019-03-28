@@ -282,7 +282,7 @@ DEPENDENCIES
   coffee-rails
   factory_bot_rails
   faker
-  font-awesome-sass (~> 4.3)
+  font-awesome-sass (= 4.7.0)
   jquery-rails
   listen
   pry-byebug
