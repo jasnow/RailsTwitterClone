@@ -6,11 +6,11 @@ gem "rails", "5.2.3"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
-gem "puma", "~> 3.12"
+gem "puma"
 # Use SCSS for stylesheets
-gem "sass-rails", "~> 5.0"
+gem "sass-rails"
 gem "bootstrap-sass"
-gem "font-awesome-sass", "~> 4.3"
+gem "font-awesome-sass", "~> 4.3" # 3/28/2019: LOCKED DOWN
 # Use Uglifier as compressor for JavaScript assets
 gem "uglifier", ">= 1.3.0"
 # Use CoffeeScript for .js.coffee assets and views
