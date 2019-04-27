@@ -48,7 +48,7 @@ group :development, :test do
   gem "pry-rails"
   gem "rails-controller-testing"
   gem "rb-readline"
-  gem "rspec-rails"
+  gem "rspec-rails", "4.0.0.beta2" # 4/26/2019: LOCKED DOWN
   gem "selenium-webdriver"
   gem "simplecov", require: false
 end
