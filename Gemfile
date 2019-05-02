@@ -13,8 +13,6 @@ gem "bootstrap-sass"
 gem "font-awesome-sass", "4.7.0" # 3/28/2019: LOCKED DOWN
 # Use Uglifier as compressor for JavaScript assets
 gem "uglifier"
-# Use CoffeeScript for .js.coffee assets and views
-gem "coffee-rails"
 # Use jquery as the JavaScript library
 gem "jquery-rails"
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
